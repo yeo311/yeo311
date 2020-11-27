@@ -2,7 +2,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyeo311&count_bg=%231EDFA5&title_bg=%236D6DD1&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarrenKwonDev&layout=compact)](https://github.com/DarrenKwonDev)
 <!--
 **yeo311/yeo311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
