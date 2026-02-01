@@ -1,17 +1,25 @@
-### Jihoon Yeo 👋
+### Hi, I'm Jihoon 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeo311&layout=compact)](https://github.com/yeo311)
-<!--
-**yeo311/yeo311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Engineer at **Musinsa** · Seoul, Korea
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Tech Stack
+
+![React](https://img.shields.io/badge/React-333?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-333?style=flat&logo=nextdotjs)
+![TypeScript](https://img.shields.io/badge/TypeScript-333?style=flat&logo=typescript)
+
+---
+
+#### GitHub Stats
+
+<a href="https://github.com/yeo311">
+  <img src="https://github-readme-stats.vercel.app/api?username=yeo311&show_icons=true&hide_title=true&hide_border=true&count_private=true&text_color=555&icon_color=333&bg_color=00000000" height="150" />
+</a>
+
+---
+
+#### Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-333?style=flat&logo=linkedin)](https://www.linkedin.com/in/jihoon-yeo-58aa4a2a9)
